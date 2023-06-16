@@ -8,7 +8,7 @@ folder which can be used with the addon.
 - Batch processing of multiple folders.
 - Setup **Principled BSDF** shader with following parameters:
   - Defuse texture: Base Color
-  - Ambient Occlusion: Mix color with deffuse texture
+  - Ambient Occlusion: Mix color with diffuse texture
   - Roughness texture: Roughness 
   - Opacity texture: Alpha
   - Normal map: Normal
