@@ -25,6 +25,8 @@ Download the addon archive and install it as usual.
 
 # Setup
 Setup global parameters for created materials. As displacement scale and midlevel, AO mix factor.
+![image](https://github.com/artyomb/folders2materials/assets/2667887/aa91b53c-9fe6-4d93-a270-04d1f155e61f)
+
 
 # Location
 The addon panel is located at the Asset browser side panel.
