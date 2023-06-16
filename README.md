@@ -2,7 +2,7 @@ Blender Add-on
 # folders2materials
 The addon Loads textures from the list of folders and creates **PBR materials**.
 
-For example the **Quixel bridge** fails to create proper material in **Blender**. But it downloads the materials in local 
+For example, the **Quixel bridge** fails to create proper material in **Blender**. But it downloads the materials in local 
 folder which can be used with the addon.
 
 - Batch processing of multiple folders.
