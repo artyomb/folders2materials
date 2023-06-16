@@ -34,7 +34,7 @@ The addon panel is located at the Asset browser side panel.
 
 # Import
 Select the parent folder where the list of subfolders contains of textures. Select the required import options.
-Manage the file names and extensions for the textures lookup.
+Manage the file names and extensions for the texture's lookup.
 
 ![image](https://github.com/artyomb/folders2materials/assets/2667887/9edabdef-bc02-4745-801e-d6a063f164b2)
 
