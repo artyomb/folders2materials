@@ -15,7 +15,7 @@ folder which can be used with the addon.
   - Height map: Displacement (midlevel, slace)
   - Metal map: Metalic
   - Emission texture: Emission
-  - Preview: Asset preview
+- Preview image used for the Asset preview
 - Setup mapping scale with respect to image size proportions. 
 - Mark material as Asset
 
